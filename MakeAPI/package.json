@@ -1,0 +1,14 @@
+{
+  "name": "makeapi",
+  "version": "1.0.0",
+  "description": "Simple api using create server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh Raj",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

@@ -1,0 +1,39 @@
+const data = [
+    {
+        name:"Ashutosh",
+        email:"ashutosh@gmail.com",
+        contact:655164613,
+        address:"Patna",
+        id:1
+    },
+    {
+        name:"Ashutosh",
+        email:"ashutosh@gmail.com",
+        contact:655164613,
+        address:"Patna",
+        id:2
+    },
+    {
+        name:"Ashutosh",
+        email:"ashutosh@gmail.com",
+        contact:655164613,
+        address:"Patna",
+        id:3
+    },
+    {
+        name:"Ashutosh",
+        email:"ashutosh@gmail.com",
+        contact:655164613,
+        address:"Patna",
+        id:4,
+    },
+    {
+        name:"Ashutosh",
+        email:"ashutosh@gmail.com",
+        contact:655164613,
+        address:"Patna",
+        id:5,
+    },
+]
+
+module.exports=data
