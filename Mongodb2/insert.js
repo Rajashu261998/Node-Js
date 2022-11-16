@@ -1,14 +1,10 @@
 const dbConnect = require("./mongodb")
+const item = require("./product")
 
-const insert = async ()=>{
+const insertData = async ()=>{
     const db=await dbConnect()
-    const result =await db.insert({
-        name:"max",
-        brand:"max",
-        price:364,
-        category:"mobile"
-    })
+    const result =await db.insert(item)
     console.log(result)
 }
 
-insert()
+insertData()

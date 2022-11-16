@@ -1,21 +1,27 @@
 const item = [
     {
-        name:"micromax",
+        name:"omax",
         brand:"max",
         price:333,
         category:"mobile"
     },{
-        name:"micromax",
+        name:"micromax2",
         brand:"max",
         price:333,
         category:"mobile"
     },{
-        name:"micromax",
+        name:"micromax3",
         brand:"max",
         price:333,
         category:"mobile"
     },{
-        name:"micromax",
+        name:"micromax4",
+        brand:"max",
+        price:333,
+        category:"mobile"
+    },
+    {
+        name:"vivo",
         brand:"max",
         price:333,
         category:"mobile"
