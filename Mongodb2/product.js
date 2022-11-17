@@ -15,13 +15,19 @@ const item = [
         price:333,
         category:"mobile"
     },{
-        name:"micromax4",
+        name:"mi",
         brand:"max",
         price:333,
         category:"mobile"
     },
     {
         name:"vivo",
+        brand:"max",
+        price:333,
+        category:"mobile"
+    },
+    {
+        name:"vivo3",
         brand:"max",
         price:333,
         category:"mobile"
